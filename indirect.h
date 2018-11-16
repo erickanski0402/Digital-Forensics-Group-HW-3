@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdint.h>
+#include<stdbool.h>
+#include<unistd.h>
+#include<fcntl.h>
+#include"cmntdfs.h"
+#include"indirectDef.h"
+#include"indirectGlob.h"
+#include"indirectProto.h"

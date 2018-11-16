@@ -1,0 +1,4 @@
+#define BLOCK_SIZE 4096
+#define BITS_IN_BYTE 8
+#define BLOCK_GROUP 32768
+#define BYTES_IN_ADDR 4
